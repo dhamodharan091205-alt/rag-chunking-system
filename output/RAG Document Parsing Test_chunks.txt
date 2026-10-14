@@ -1,0 +1,3 @@
+--- Chunk 1 ---
+# RAG Document Parsing Test Retrieval-Augmented Generation (RAG) retrieves relevant information from documents to answer user questions. Dynamic parsing extracts readable text from different document formats. Dynamic chunking splits the extracted text into smaller sections for downstream retrieval. The system supports text files, PDF documents, and Word documents.
+

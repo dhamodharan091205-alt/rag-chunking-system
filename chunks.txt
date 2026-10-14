@@ -1,0 +1,2 @@
+--- Chunk 1 ---
+Artificial Intelligence is transforming many industries. Machine learning helps computers learn patterns from data. Retrieval-Augmented Generation (RAG) combines information retrieval with language models. Dynamic parsing cleans and prepares documents before processing. Dynamic chunking divides documents into smaller meaningful sections. These chunks can be used to retrieve relevant information and generate accurate answers.

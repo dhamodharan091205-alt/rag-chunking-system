@@ -1,0 +1,12 @@
+--- Chunk 1 ---
+Artificial Intelligence is transforming many industries around the world. Machine learning allows computers to identify patterns and make predictions from large datasets. Retrieval Augmented Generation is a technique that combines information retrieval with large language models. It retrieves relevant information from external documents and uses that information to generate answers.
+
+--- Chunk 2 ---
+from external documents and uses that information to generate answers. Dynamic parsing prepares documents before they are processed. It cleans unnecessary spaces, handles line breaks, and extracts readable text from different file formats such as TXT, PDF, and DOCX. Dynamic chunking divides a long document into smaller sections. Each section
+
+--- Chunk 3 ---
+chunking divides a long document into smaller sections. Each section contains a limited number of words, and overlapping content helps preserve context between neighboring chunks. These chunks can later be converted into embeddings and stored in a vector database. When a user asks a question, the system retrieves relevant chunks
+
+--- Chunk 4 ---
+a user asks a question, the system retrieves relevant chunks and provides them to a language model to generate a grounded response.
+
